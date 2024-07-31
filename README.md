@@ -29,6 +29,9 @@ This project implements beam search decoding to enhance the translation quality 
    ```bash
    python task1_beam_search.py
 
+## Visuals
+
+
    
 
    
