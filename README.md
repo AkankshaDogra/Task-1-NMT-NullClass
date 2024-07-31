@@ -16,9 +16,6 @@ This project implements beam search decoding to enhance the translation quality 
 
 2. **Navigate to the project directory:**
    
-   ```bash
-   cd Task1_Beam_Search_NMT_Data_Science_Nullclass
-   
 3. **Install the required dependencies:**
 
    ```bash
