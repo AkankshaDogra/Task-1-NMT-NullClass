@@ -31,7 +31,7 @@ This project implements beam search decoding to enhance the translation quality 
 
 ## Visuals
 
-
+![Beam Search Decoding](https://github.com/AkankshaDogra/Task-1-NMT-NullClass/blob/main/task-1.jpg?raw=true)
    
 
    
